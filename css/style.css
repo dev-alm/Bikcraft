@@ -12,6 +12,9 @@
 
 @import "./utilidades/componentes.css";
 
+/*Bicicleta*/
+@import "./bicicleta/bicicleta.css";
+
 /*Bicicletas*/
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
@@ -27,6 +30,8 @@
 
 /*SEGUROS*/
 @import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
 
 /*Termos*/
 @import "./termos/termos.css";
