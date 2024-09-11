@@ -1,8 +1,6 @@
 /*Global*/
 @import "./global/global.css";
-
 @import "./global/header.css";
-
 @import "./global/footer.css";
 
 /*UTILIDADES*/
@@ -36,3 +34,6 @@
 /*Contato*/
 @import "./contato/contato.css";
 @import "./contato/lojas.css";
+
+/*Orçamento*/
+@import "./orcamento/orcamento.css";
