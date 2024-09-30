@@ -8,6 +8,8 @@
 @import "./utilidades/cores.css";
 @import "./utilidades/componentes.css";
 @import "./utilidades/formulario.css";
+/* Animação Anime */
+@import "./utilidades/animacao.css";
 
 /*Bicicleta*/
 @import "./bicicleta/bicicleta.css";
@@ -37,3 +39,5 @@
 
 /*Orçamento*/
 @import "./orcamento/orcamento.css";
+
+
